@@ -1,12 +1,12 @@
 [
     {
-        "title": "Article 1",
+        "title": "CyberPunk 2077",
         "image_url": "https://raw.githubusercontent.com/username/repo/main/image1.jpg",
         "content_url": "https://raw.githubusercontent.com/username/repo/main/article1.txt"
     },
     {
-        "title": "Article 2",
-        "image_url": "https://raw.githubusercontent.com/username/repo/main/image2.jpg",
+        "title": "GTA V",
+        "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
         "content_url": "https://raw.githubusercontent.com/username/repo/main/article2.txt"
     }
 ]
