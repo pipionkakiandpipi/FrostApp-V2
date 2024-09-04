@@ -2,11 +2,11 @@
     {
         "title": "CyberPunk 2077",
         "image_url": "https://raw.githubusercontent.com/username/repo/main/image1.jpg",
-        "content_url": "https://raw.githubusercontent.com/username/repo/main/article1.txt"
+        "content": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith."
     },
     {
         "title": "GTA V",
         "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
-        "content_url": "https://raw.githubusercontent.com/username/repo/main/article2.txt"
+        "content": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series."
     }
 ]
