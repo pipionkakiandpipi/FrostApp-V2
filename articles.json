@@ -1,42 +1,72 @@
 [
     {
         "title": "CyberPunk 2077",
-        "content": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "image_url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+        "content": "Cyberpunk 2077 est un RPG immersif en monde ouvert se déroulant dans la dystopique Night City. Vous incarnez V, un mercenaire à la recherche d'un implant unique capable d'accorder l'immortalité. Explorez un monde riche et interactif rempli de quêtes captivantes, de combats intenses et de personnalisation poussée.",
+        "image_url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
+        "size": "70 Go",
+        "release_date": "10 décembre 2020"
     },
     {
         "title": "GTA V",
+        "content": "Grand Theft Auto V est un jeu d'action-aventure en monde ouvert développé par Rockstar Games. Incarnez trois criminels aux destins entrelacés dans la ville fictive de Los Santos et ses environs. GTA V combine une histoire captivante, un gameplay varié et des graphismes impressionnants, tout en offrant un mode multijoueur complet.",
         "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
-        "content": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series."
+        "size": "100 Go",
+        "release_date": "17 septembre 2013"
     },
     {
-        "title": "CyberPunk 2077",
-        "content": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "image_url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+        "title": "The Witcher 3: Wild Hunt",
+        "content": "The Witcher 3: Wild Hunt est un jeu de rôle en monde ouvert acclamé par la critique. Incarnez Geralt de Riv, un chasseur de monstres professionnel, dans une quête pour retrouver sa fille adoptive, tout en parcourant des terres riches en histoires et en rencontres inoubliables.",
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg?t=1668003619",
+        "size": "50 Go",
+        "release_date": "19 mai 2015"
     },
     {
-        "title": "GTA V",
-        "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
-        "content": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series."
+        "title": "Red Dead Redemption 2",
+        "content": "Red Dead Redemption 2 est un jeu d'aventure en monde ouvert se déroulant dans le Far West. Incarnez Arthur Morgan, un hors-la-loi tentant de survivre à la fin de l'ère du Far West, dans une histoire captivante de loyauté et de trahison.",
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1618859928",
+        "size": "150 Go",
+        "release_date": "26 octobre 2018"
     },
     {
-        "title": "CyberPunk 2077",
-        "content": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "image_url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+        "title": "Assassin's Creed Valhalla",
+        "content": "Assassin's Creed Valhalla vous plonge dans la peau d'Eivor, un guerrier viking en quête de gloire. Explorez l'Angleterre médiévale et menez des raids tout en construisant votre colonie et en façonnant votre légende.",
+        "image_url": "https://cdn1.epicgames.com/offer/47e776cd6f234ceeb87c764b6d478662/EGS_AssassinsCreedValhalla_Ubisoft_S1_2560x1440-e807d58906f7bb7e4b2819dc0385d93e",
+        "size": "90 Go",
+        "release_date": "10 novembre 2020"
     },
     {
-        "title": "GTA V",
-        "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
-        "content": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series."
+        "title": "Elden Ring",
+        "content": "Elden Ring est un jeu d'action-RPG en monde ouvert développé par FromSoftware. Co-écrit par George R.R. Martin, le jeu se déroule dans les Terres Interdites, où vous explorez un monde sombre, rempli de créatures mystérieuses et de donjons périlleux.",
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg?t=1666035971",
+        "size": "60 Go",
+        "release_date": "25 février 2022"
     },
     {
-        "title": "CyberPunk 2077",
-        "content": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "image_url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+        "title": "Horizon Forbidden West",
+        "content": "Horizon Forbidden West suit l'héroïne Aloy dans une aventure épique à travers un monde post-apocalyptique regorgeant de machines impressionnantes. Explorez des terres sauvages et dangereuses tout en découvrant des mystères anciens.",
+        "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0912/IZkJ9GJ7t8hIEyyDAqIVlZIl.jpg",
+        "size": "90 Go",
+        "release_date": "18 février 2022"
     },
     {
-        "title": "GTA V",
-        "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
-        "content": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series."
+        "title": "God of War",
+        "content": "God of War (2018) est une réinvention audacieuse de la célèbre franchise. Incarnez Kratos, maintenant un père, dans une aventure où il doit protéger son fils, Atreus, tout en combattant des créatures de la mythologie nordique.",
+        "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg?t=1643684874",
+        "size": "50 Go",
+        "release_date": "20 avril 2018"
+    },
+    {
+        "title": "Call of Duty: Modern Warfare II",
+        "content": "Call of Duty: Modern Warfare II est un jeu de tir à la première personne centré sur les conflits militaires modernes. La campagne offre des missions palpitantes, tandis que le multijoueur propose des affrontements tactiques intenses.",
+        "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2116/3flZutIiE7tx7Jb9nxzZGrdO.jpg",
+        "size": "150 Go",
+        "release_date": "28 octobre 2022"
+    },
+    {
+        "title": "Ghost of Tsushima",
+        "content": "Ghost of Tsushima est un jeu d'action-aventure en monde ouvert se déroulant au Japon féodal. Incarnez Jin Sakai, un samouraï qui doit abandonner ses traditions pour repousser l'invasion mongole.",
+        "image_url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GhostofTsushima_SuckerPunchProductions_S1_2560x1440-583e3e7615a3c2b2d0a2ff6adba2821b",
+        "size": "50 Go",
+        "release_date": "17 juillet 2020"
     }
 ]
